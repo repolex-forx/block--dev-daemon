@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "dev-daemon",
+  "versions": [
+    {
+      "commit": "55c5d754cc044dd2ab174b4d772e3d3dd07f0873",
+      "tag": "main",
+      "parsed_at": "2026-10-02T11:22:17.904050+00:00"
+    }
+  ]
+}
